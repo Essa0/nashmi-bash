@@ -3,14 +3,14 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: iabiesat <iabiesat@student.42.fr>          +#+  +:+       +#+         #
+#    By: issa <issa@student.42.fr>                  +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/04/29 21:34:53 by zshkukan          #+#    #+#              #
-#    Updated: 2026/04/30 17:21:49 by iabiesat         ###   ########.fr        #
+#    Updated: 2026/06/13 17:42:42 by issa             ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = minishell
+NAME = nashme-bash
 
 CC = cc
 CFLAGS = -Wall -Wextra -Werror -g

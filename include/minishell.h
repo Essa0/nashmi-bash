@@ -3,17 +3,17 @@
 /*                                                        :::      ::::::::   */
 /*   minishell.h                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: iabiesat <iabiesat@student.42.fr>          +#+  +:+       +#+        */
+/*   By: issa <issa@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/29 21:11:26 by zshkukan          #+#    #+#             */
-/*   Updated: 2026/04/30 18:31:54 by iabiesat         ###   ########.fr       */
+/*   Updated: 2026/06/13 16:13:18 by issa             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef MINISHELL_H
 # define MINISHELL_H
 
-# define PROMPT "minishell > "
+# define PROMPT "Nashmi-Bash > "
 
 # include "token_list.h"
 # include "libft/libft.h"
